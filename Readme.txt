@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Documentation
 
-Template Name: Plato
-Template URL: https://bootstrapmade.com/plato-responsive-bootstrap-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Site Name: Lily Bio Cosmetique 
+Site web URL: lilybiocosmetique.github.io
+Author: lilybiocosmetique.github.io
+
